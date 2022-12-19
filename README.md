@@ -50,7 +50,7 @@ colorama==0.4.6
 * `git clone https://github.com/galudSla/bill-split.git`
 * `cd to bill-split folder directory`
 * `python -m venv <yourvenvname>`
-* `activate virtualenvironment`
+* `activate virtual environment`
 * `pip install -r requirements.txt`
 
 
@@ -80,7 +80,7 @@ colorama==0.4.6
 the filename fooTrip does not exist, so a file fooTrip.txt is created to store the misc inputs
 * `[+] -i Anne John Roger George`\
 the names provided are saved 
-* `[+] -a Anita ChineseRestaurant 50`\
+* `[+] -a Anne ChineseRestaurant 50`\
 the bill ChineseRestaurant is now stored to Anne's bill
 * So, you forgot to add your friend Leah\
 `[+] -i Leah`
