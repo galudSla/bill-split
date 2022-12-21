@@ -105,8 +105,8 @@ the bill ChineseRestaurant is now stored to Anne's bill
 ```
 * Finally, it is time for the first split `[+] -c`
 ```
-[$] Roger -> Anita 38.6
-[$] George -> Anita 15.8
+[$] Roger -> Anne 38.6
+[$] George -> Anne 15.8
 [$] George -> John 22.8
 [$] Leah -> John 38.6
 ```
