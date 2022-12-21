@@ -56,7 +56,7 @@ colorama==0.4.6
 
 ## Executing
 
-* When running `bill-splitt.py [-f [filename]]` -f (--filename) optional argument is not required but suggested to be provided. If filename option is not provided you will be asked inside Bill Split. The option filename searches either for an existing legder file with the filename given, if not found it creates one with the same name
+* When running `bill-splitt.py [-f [filename]]` -f (--filename) optional argument is not required but suggested to be provided. If filename option is not provided you will be asked inside Bill Split. The option filename searches for an existing legder file with the filename given or if not found it creates one with the same name
 *  There is an optional argument -s (--show) when calling `bill-splitt.py [-f [filename]] [-s [show]]` that prints previous inputs when at the beggining. Optional argument show can be set regardless filename argument existence
 * The optional argument --help can be used for more information about the CLI script call
 
